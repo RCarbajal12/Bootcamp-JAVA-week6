@@ -1,2 +1,2 @@
-# Bootcamp-JAVA-week6
- semana 6
+# Bootcamp JAVA FULL-STACK 
+ semana 6 / Coding Dojo
